@@ -1,0 +1,19 @@
+quexit
+======
+
+quexit handles specific keys like
+'exit'.
+
+Set a key
+=========
+
+A key can be set by running
+quexit -config 'key'
+
+Who even needs this?
+====================
+Me, I often write q instead of exit
+which annoys me so I'm fixing my
+clumpsy-self with quexit. And it will
+also give Linux users who need to customise
+every pixel another way of customisation.
