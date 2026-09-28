@@ -12,7 +12,7 @@ type Runner interface {
 }
 
 type ExecRunner struct {
-    in io.Writer
+    in io.Reader
     out io.Writer
     errOut io.Writer
 }
